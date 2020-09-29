@@ -15,4 +15,8 @@ public class SeleniumTest {
 	public void ElementsUI() {
 		System.out.println("ElementsUI");
 	}
+	@Test
+	public void ElementsUIpage() {
+		System.out.println("ElementsUI");
+	}
 }

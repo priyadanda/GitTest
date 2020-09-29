@@ -20,6 +20,10 @@ public class RESTAPITest {
 	public void DeleteTwitter() {
 		System.out.println("DeleteTwitter");
 	}
+	@Test
+	public void DeleteTwitters() {
+		System.out.println("DeleteTwitter");
+	}
 	
 
 }
