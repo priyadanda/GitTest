@@ -1,5 +1,5 @@
 package Rahulshettyacademy;
 
-public class Mobiletest {
+public class newtest {
 
 }
